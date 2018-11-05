@@ -1,4 +1,4 @@
-# volleyball-stats<html>
+<html>
 <head>
 <title>Page Title</title>
 <style>
@@ -62,3 +62,164 @@ display: block;
 </style>
 </head>
 <body>
+
+<h2>Clickable Dropdown</h2>
+<p>Click on the button to open the dropdown menu.</p>
+
+<div class="dropdown">
+<button onclick="myFunction()" class="dropbtn">Dropdown</button>
+<div id="myDropdown" class="dropdown-content">
+<a href="#home">Home</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</div>
+</div>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+if (!event.target.matches('.dropbtn')) {
+
+var dropdowns = document.getElementsByClassName("dropdown-content");
+var i;
+for (i = 0; i < dropdowns.length; i++) {
+var openDropdown = dropdowns[i];
+if (openDropdown.classList.contains('show')) {
+openDropdown.classList.remove('show');
+}
+}
+}
+}
+
+</script>
+
+<h1 align="center">Volleyball Statistics</h1>
+<img src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right">
+<h2>How to manage your teams statistics<h2>
+<ol> 
+<li>Create a team profile</li>
+<li>Create a profile for each player on your team</li>
+<li>Create a game profile for each game in your season</li>
+<li>Within each game profile you will be able to upload each individuals players statistics for that specific game</li>
+<li>After each game you are able to look at the team profile and each individual profile for more details and graphs for the season!</li>
+</ol>
+
+<p1>Team Profile</p1>
+<div>
+<table id= "table1" style="width:100%">
+<tr>
+<th>Team name</th>
+<th>Coach</th> 
+<th>Number of players </th>
+<th>Games and dates </th>
+</tr>
+<form action="https://laurapellicano.github.io/volleyball-stats/" method="get"> 
+<label for="teamname">Team Name:</label>
+<input type="text" name="teamname">
+<label for="coachname">Coach Name:</label>
+<input type="text" name="coachname">
+<label for="player">Player Name:</label>
+<input type="text" number="player">
+<label for="gamesanddates">Game and Date:</label>
+<input type="text" name = "gamesanddates">
+</table>
+<div class="button">
+    <button type="submit">Send your message</button>
+          </div>
+          </form>
+                
+                      <br/><br/>
+                            
+                                  <p2> Game Statistics</p2>
+                                        <table id = "table2" style="width:100%">
+                                              <tr>
+                                                    <th>Player</th>
+                                                          <th>Serve(in play)</th> 
+                                                                <th>Serve (ace) </th>
+                                                                      <th>Serve (error) </th>
+                                                                            <th>Serve Receive</th>
+                                                                                  <th>Serve Receive (error) </th>
+                                                                                        <th>Assist(for kill) </th>
+                                                                                              <th>Kill </th>
+                                                                                                    <th>Kill(error) </th>
+                                                                                                          <th>Dig </th>
+                                                                                                                <th>Dig (error) </th>
+                                                                                                                      </tr>
+                                                                                                                            <tr>
+                                                                                                                                  <td><input type="text" name="name"><br></td>
+                                                                                                                                        <td><input type="text" name="serveinplay"><br></td>
+                                                                                                                                              <td><input type="text" name="serveace"><br></td>
+                                                                                                                                                    <td><input type="text" name="serveerror"><br></td>
+                                                                                                                                                          <td><input type="text" name="servereceive"><br></td>
+                                                                                                                                                                <td><input type="text" name="servereceiveerror"<br></td>
+                                                                                                                                                                      <td><input type="text" name="assist"><br></td>
+                                                                                                                                                                            <td><input type="text" name="kill"><br></td>
+                                                                                                                                                                                  <td><input type="text" name="killerror"><br></td>
+                                                                                                                                                                                        <td><input type="text" name="dig"><br></td>
+                                                                                                                                                                                              <td><input type="text" name="digerror"><br></td>
+                                                                                                                                                                                                    </tr>
+                                                                                                                                                                                                          <tr>
+                                                                                                                                                                                                                <td><input type="text" name="name"><br></td>
+                                                                                                                                                                                                                      <td><input type="text" name="serveinplay"><br></td>
+                                                                                                                                                                                                                            <td><input type="text" name="serveace"><br></td>
+                                                                                                                                                                                                                                  <td><input type="text" name="serveerror"><br></td>
+                                                                                                                                                                                                                                        <td><input type="text" name="servereceive"><br></td>
+                                                                                                                                                                                                                                              <td><input type="text" name="servereceiveerror"<br></td>
+                                                                                                                                                                                                                                                    <td><input type="text" name="assist"><br></td>
+                                                                                                                                                                                                                                                          <td><input type="text" name="kill"><br></td>
+                                                                                                                                                                                                                                                                <td><input type="text" name="killerror"><br></td>
+                                                                                                                                                                                                                                                                      <td><input type="text" name="dig"><br></td>
+                                                                                                                                                                                                                                                                            <td><input type="text" name="digerror"><br></td>
+                                                                                                                                                                                                                                                                                  </tr>
+                                                                                                                                                                                                                                                                                        <tr>
+                                                                                                                                                                                                                                                                                              <td><input type="text" name="name"></td>
+                                                                                                                                                                                                                                                                                                    <td><input type="text" name="serveinplay"><br></td>
+                                                                                                                                                                                                                                                                                                          <td><input type="text" name="serveace"><br></td>
+                                                                                                                                                                                                                                                                                                                <td><input type="text" name="serveerror"><br></td>
+                                                                                                                                                                                                                                                                                                                      <td><input type="text" name="servereceive"><br></td>
+                                                                                                                                                                                                                                                                                                                            <td><input type="text" name="servereceiveerror"<br></td>
+                                                                                                                                                                                                                                                                                                                                  <td><input type="text" name="assist"><br></td>
+                                                                                                                                                                                                                                                                                                                                        <td><input type="text" name="kill"><br></td>
+                                                                                                                                                                                                                                                                                                                                              <td><input type="text" name="killerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                    <td><input type="text" name="dig"><br></td>
+                                                                                                                                                                                                                                                                                                                                                          <td><input type="text" name="digerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                </tr>
+                                                                                                                                                                                                                                                                                                                                                                      <tr>
+                                                                                                                                                                                                                                                                                                                                                                            <td><input type="text" name="name"></td>
+                                                                                                                                                                                                                                                                                                                                                                                  <td><input type="text" name="serveinplay"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                        <td><input type="text" name="serveace"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                              <td><input type="text" name="serveerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                    <td><input type="text" name="servereceive"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                          <td><input type="text" name="servereceiveerror"<br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                <td><input type="text" name="assist"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                      <td><input type="text" name="kill"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                            <td><input type="text" name="killerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                  <td><input type="text" name="dig"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                        <td><input type="text" name="digerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                              </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    <tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          <td><input type="text" name="name"></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <td><input type="text" name="serveinplay"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <td><input type="text" name="serveace"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <td><input type="text" name="serveerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <td><input type="text" name="servereceive"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <td><input type="text" name="servereceiveerror"<br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <td><input type="text" name="assist"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <td><input type="text" name="kill"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <td><input type="text" name="killerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <td><input type="text" name="dig"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <td><input type="text" name="digerror"><br></td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </table>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </body>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
