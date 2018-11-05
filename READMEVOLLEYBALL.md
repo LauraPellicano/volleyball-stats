@@ -119,20 +119,6 @@ openDropdown.classList.remove('show');
 <th>Number of players </th>
 <th>Games and dates </th>
 </tr>
-<form action="https://laurapellicano.github.io/volleyball-stats/" method="get"> 
-<label for="teamname">Team Name:</label>
-<input type="text" name="teamname">
-<label for="coachname">Coach Name:</label>
-<input type="text" name="coachname">
-<label for="player">Player Name:</label>
-<input type="text" number="player">
-<label for="gamesanddates">Game and Date:</label>
-<input type="text" name = "gamesanddates">
-</table>
-<div class="button">
-    <button type="submit">Send your message</button>
-          </div>
-          </form>
                 
                       <br/><br/>
                             
