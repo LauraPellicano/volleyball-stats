@@ -1,4 +1,4 @@
-<!–– OTHER PAGE ––>
+<!-- OTHER PAGE -->
 <html>
 <head>
 <title>Page Title</title>
