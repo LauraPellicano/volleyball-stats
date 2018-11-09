@@ -72,7 +72,7 @@ display: block;
 <div class="button">
 <div id="myDropdown" class="dropdown-content">
 <div class = "button">
-<a href="#home">Home</a>
+    <button type="Home">Home</button>
 <form action = "https://laurapellicano.github.io/Home-Page/" method = "get">
 <a href="#about">About</a>
 <a href="#contact">Contact</a>
