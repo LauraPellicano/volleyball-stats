@@ -69,9 +69,11 @@ display: block;
 
 <div class="dropdown">
 <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+<div class="button">
 <div id="myDropdown" class="dropdown-content">
-<form action = "https://laurapellicano.github.io/Home-Page/" method = "get">
+<div class = "button">
 <a href="#home">Home</a>
+<form action = "https://laurapellicano.github.io/Home-Page/" method = "get">
 <a href="#about">About</a>
 <a href="#contact">Contact</a>
 </div>
