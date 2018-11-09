@@ -74,6 +74,7 @@ display: block;
 <div class = "button">
     <button type="Home">Home</button>
 <form action = "https://laurapellicano.github.io/Home-Page/" method = "get">
+</div>
 <a href="#about">About</a>
 <a href="#contact">Contact</a>
 </div>
