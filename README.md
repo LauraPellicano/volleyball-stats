@@ -68,18 +68,13 @@ display: block;
 <p>Click on the button to open the dropdown menu.</p>
 
 <div class="dropdown">
-<button onclick="myFunction()" class="dropbtn">Dropdown</button>
-<div class="button">
+<button onclick="myFunction()" class="dropbtn">Menu</button>
 <div id="myDropdown" class="dropdown-content">
-<div class = "button">
-    <button type="submit">Home</button>
-<form action = "https://laurapellicano.github.io/Home-Page/" method = "get">
-</div>
+<a href="https://laurapellicano.github.io/Home-Page/">Home</a>
 <a href="#about">About</a>
 <a href="#contact">Contact</a>
 </div>
 </div>
-</form>
 
 <script>
 /* When the user clicks on the button, 
