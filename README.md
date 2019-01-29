@@ -137,6 +137,31 @@ openDropdown.classList.remove('show');
 <th>Dig </th>
 <th>Dig (error) </th>
 </tr>
+
+
+<table>
+<tr>
+<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+<th><label for="Name"></label>  Name:<br>
+<input type="text" name="name"><br>
+<th><label for="Serve (in play)"></label> Serve (in play):<br>
+<input type="text" name="Serve (in play)"><br>
+<th><label for="Serve (ace)"></label> Serve (ace):<br>
+<input type="text" name="Serve (ace)"><br>
+<th><label for="Serve (error)"></label>Serve (error):<br>
+<input type="text" name="Serve (error)"><br>
+<th><label for="Serve Receive "></label>Serve Receive:<br>
+<div> 
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
+</div>
+
+
+
+
+
 <tr>
 <td><input type="text" name="name"><br></td>
 <td><input type="text" name="serveinplay"><br></td>
