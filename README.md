@@ -147,7 +147,7 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="Final Score of Game"><br></td>
  
 
-<tfoot>
+<tbody>
 <tr>
 <td colspan = "4"><table>
 <th><label for="Name"></label>  Name:<br>
