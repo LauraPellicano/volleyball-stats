@@ -146,11 +146,11 @@ openDropdown.classList.remove('show');
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="name"><br>
 <th><label for="Serve (in play)"></label> Serve (in play):<br>
-<input type="text" name="Serve (in play)"><br>
+<input type="text" name="Serve (In Play)"><br>
 <th><label for="Serve (ace)"></label> Serve (ace):<br>
-<input type="text" name="Serve (ace)"><br>
+<input type="text" name="Serve (Ace)"><br>
 <th><label for="Serve (error)"></label>Serve (error):<br>
-<input type="text" name="Serve (error)"><br>
+<input type="text" name="Serve (Error)"><br>
 <th><label for="Serve Receive "></label>Serve Receive:<br>
 <input type="text" name="Serve Recieve"><br>
 <th><label for="Assist"></label>Assist:<br>
