@@ -1,4 +1,4 @@
-<!-- OTHER PAGE -->
+<!-- VOLLEYBALL STATS-->
 <html>
 <head>
 <title>Page Title</title>
@@ -152,6 +152,17 @@ openDropdown.classList.remove('show');
 <th><label for="Serve (error)"></label>Serve (error):<br>
 <input type="text" name="Serve (error)"><br>
 <th><label for="Serve Receive "></label>Serve Receive:<br>
+<input type="text" name="Serve Recieve"><br>
+<th><label for="Assist"></label>Assist:<br>
+<input type="text" name="Assist"><br>
+<th><label for="Kill"></label>Kill:<br>
+<input type="text" name="Kill"><br>
+<th><label for="Offensive Error"></label>Offensive Error:<br>
+<input type="text" name="Offensive Error"><br>
+<th><label for="Dig"></label>Dig:<br>
+<input type="text" name="Dig"><br>
+<th><label for="Dig (Error)"></label>Dig (Error):<br>
+<input type="text" name="Dig (Error)"><br>
 <div> 
 <input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
