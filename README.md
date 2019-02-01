@@ -134,14 +134,14 @@ openDropdown.classList.remove('show');
 </thead>
 <tbody>
 <tr>
-<td></tbody><th><label for="Date"></label>  Date:<br>
-<input type="text" name="Date"><br></td>
+<td><th><label for="Date"></label>  Date:<br>
+<input type="text" name="Date"><br>
 <td><th><label for="Opponent (In Play)"></label> Opponent:<br>
-<input type="text" name="Opponent"><br></td>
+<input type="text" name="Opponent"><br>
 <td><th><label for="Location"></label> Location:<br>
-<input type="text" name="Location"><br></td>
+<input type="text" name="Location"><br>
 <td><th><label for="Other"></label>Other:<br>
-<input type="text" name="Other"><br></td>
+<input type="text" name="Other"><br>
 
 <tfoot>
 <tr>
@@ -363,10 +363,7 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="killerror"><br></td>
  <td><input type="text" name="dig"><br></td>
  <td><input type="text" name="digerror"><br></td>
- </tr>
-</td>
-</tr>
-</tfoot>
+
 
 
 </table>
