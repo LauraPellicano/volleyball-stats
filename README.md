@@ -237,6 +237,136 @@ openDropdown.classList.remove('show');
 <td><input type="text" name="dig"><br></td>
 <td><input type="text" name="digerror"><br></td>
 </tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
+<tr>
+<td><input type="text" name="name"><br></td>
+<td><input type="text" name="serveinplay"><br></td>
+<td><input type="text" name="serveace"><br></td>
+<td><input type="text" name="serveerror"><br></td>
+<td><input type="text" name="servereceive"><br></td>
+<td><input type="text" name="servereceiveerror"><br></td>
+<td><input type="text" name="assist"><br></td>
+<td><input type="text" name="kill"><br></td>
+<td><input type="text" name="killerror"><br></td>
+<td><input type="text" name="dig"><br></td>
+<td><input type="text" name="digerror"><br></td>
+</tr>
 
 <div> 
 <input type="submit" value="Send">
