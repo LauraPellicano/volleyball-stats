@@ -129,7 +129,7 @@ openDropdown.classList.remove('show');
  
    <tfoot>
     <tr>
-     <td colspan = "4"><table>
+     <td colspan = "8"><table>
       <th><label for="Name"></label>Final Score Set One:<br>
        <td><input type="text" name="Final Score Set One"><br></td>
         <th><label for="Name"></label>Final Score Set Two:<br>
