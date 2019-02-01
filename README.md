@@ -145,11 +145,11 @@ openDropdown.classList.remove('show');
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="name"><br>
-<th><label for="Serve (In Play)"></label> Serve (in play):<br>
+<th><label for="Serve (In Play)"></label> Serve (In Play):<br>
 <input type="text" name="Serve (In Play)"><br>
-<th><label for="Serve (Ace)"></label> Serve (ace):<br>
+<th><label for="Serve (Ace)"></label> Serve (Ace):<br>
 <input type="text" name="Serve (Ace)"><br>
-<th><label for="Serve (Error)"></label>Serve (error):<br>
+<th><label for="Serve (Error)"></label>Serve (Error):<br>
 <input type="text" name="Serve (Error)"><br>
 <th><label for="Serve Receive "></label>Serve Receive:<br>
 <input type="text" name="Serve Recieve"><br>
@@ -157,8 +157,8 @@ openDropdown.classList.remove('show');
 <input type="text" name="Assist"><br>
 <th><label for="Kill"></label>Kill:<br>
 <input type="text" name="Kill"><br>
-<th><label for="Offense (Error)"></label>Offensive Error:<br>
-<input type="text" name="Offensive Error"><br>
+<th><label for="Offense (Error)"></label>Offense (Error):<br>
+<input type="text" name="Offense (Error)"><br>
 <th><label for="Dig"></label>Dig:<br>
 <input type="text" name="Dig"><br>
 <th><label for="Dig (Error)"></label>Dig (Error):<br>
