@@ -118,14 +118,14 @@ openDropdown.classList.remove('show');
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 <thead>
 <tr>
-<td colspan = "4">Game Statistcs</td>
+<td colspan = "4"><td><th><label for="Date"></label>Date:<input type="text" name="Date"><td><th><label for="Opponent "></label>Opponent:<input type="text" name="Opponent"><td><th><label for="Location"></label>Location:<input type="text" name="Location"><td><th><label for="Other"></label>Other:<input type="text" name="Other"></td>
 </tr>
 </thead>
 
 
 <tbody>
 <tr>
-<td colspan = "8"><td><th><label for="Date"></label>Date:<input type="text" name="Date"><td><th><label for="Opponent "></label>Opponent:<input type="text" name="Opponent"><td><th><label for="Location"></label>Location:<input type="text" name="Location"><td><th><label for="Other"></label>Other:<input type="text" name="Other">
+<!--<td colspan = "8"><td><th><label for="Date"></label>Date:<input type="text" name="Date"><td><th><label for="Opponent "></label>Opponent:<input type="text" name="Opponent"><td><th><label for="Location"></label>Location:<input type="text" name="Location"><td><th><label for="Other"></label>Other:<input type="text" name="Other">-->
  
 
 <tfoot>
