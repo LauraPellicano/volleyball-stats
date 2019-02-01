@@ -117,35 +117,19 @@ openDropdown.classList.remove('show');
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 <thead>
 <tr>
-<td colspan = "4">Game Statistcs</td>
+<td colspan = "8">Game Statistcs</td>
 </tr>
 </thead>
 
 
 <tbody>
 <tr>
-<td colspan = "8"><td><th><label for="Date"></label>Date:<input type="text" name="Date"><td><th><label for="Opponent "></label>Opponent:<input type="text" name="Opponent"><td><th><label for="Location"></label>Location:<input type="text" name="Location"><td><th><label for="Other"></label>Other:<input type="text" name="Other">
+<td><th><label for="Date"></label>Date:<input type="text" name="Date"><td><th><label for="Opponent "></label>Opponent:<input type="text" name="Opponent"><td><th><label for="Location"></label>Location:<input type="text" name="Location"><td><th><label for="Other"></label>Other:<input type="text" name="Other">
  
-   <tfoot>
-    <tr>
-     <td colspan = "4"><table>
-      <th><label for="Name"></label>Final Score Set One:<br>
-       <td><input type="text" name="Final Score Set One"><br></td>
-        <th><label for="Name"></label>Final Score Set Two:<br>
-         <td><input type="text" name="Final Score Set Two"><br></td>
-          <th><label for="Name"></label>Final Score Set Three:<br>
-           <td><input type="text" name="Final Score Set Three"><br></td>
-            <th><label for="Name"></label>Final Score Set Four:<br>
-             <td><input type="text" name="Final Score Set Four"><br></td>
-              <th><label for="Name"></label>Final Score Set Five:<br>
-               <td><input type="text" name="Final Score Set Five"><br></td>
-                <th><label for="Name"></label>Final Score Set Game:<br>
-                 <td><input type="text" name="Final Score of Game"><br></td>
-
-
+   
 <tfoot>
 <tr>
-<td colspan = "4"><table>
+<td colspan = "8"><table>
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="Name"><br>
 <th><label for="Number"></label>  Number:<br>
