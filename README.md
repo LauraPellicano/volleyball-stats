@@ -123,26 +123,20 @@ openDropdown.classList.remove('show');
 </tr>
 <br/><br/>
                             
-<p2> Game Statistics</p2>
-<table id = "table2" style="width:100%">
-<tr>
-<th>Player</th>
-<th>Serve(in play)</th> 
-<th>Serve (ace) </th>
-<th>Serve (error) </th>
-<th>Serve Receive</th>
-<th>Serve Receive (error) </th>
-<th>Assist(for kill) </th>
-<th>Kill </th>
-<th>Kill(error) </th>
-<th>Dig </th>
-<th>Dig (error) </th>
-</tr>
 
 
 <table>
 <tr>
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
+<th><label for="Date"></label>  Date:<br>
+<input type="text" name="Date"><br>
+<th><label for="Opponent (In Play)"></label> Opponent:<br>
+<input type="text" name="Opponent"><br>
+<th><label for="Location"></label> Location:<br>
+<input type="text" name="Location"><br>
+<th><label for="Other"></label>Other:<br>
+<input type="text" name="Other"><br>
+
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="name"><br>
 <th><label for="Serve (In Play)"></label> Serve (In Play):<br>
