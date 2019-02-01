@@ -133,6 +133,8 @@ openDropdown.classList.remove('show');
 <td colspan = "4"><table>
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="Name"><br>
+<th><label for="Number"></label>  Number:<br>
+<input type="text" name="Number"><br>
 <th><label for="Serve (In Play)"></label> Serve (In Play):<br>
 <input type="text" name="Serve (In Play)"><br>
 <th><label for="Serve (Ace)"></label> Serve (Ace):<br>
