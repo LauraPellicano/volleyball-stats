@@ -129,10 +129,21 @@ openDropdown.classList.remove('show');
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 <thead>
 <tr>
-<td colspan = "4">This is the head of the table</td>
+<td colspan = "4">Game Statistcs</td>
 </tr>
 </thead>
-
+<tbody>
+<tr>
+<td></tbody><th><label for="Date"></label>  Date:<br>
+<input type="text" name="Date"><br></td>
+<td><th><label for="Opponent (In Play)"></label> Opponent:<br>
+<input type="text" name="Opponent"><br></td>
+<td><th><label for="Location"></label> Location:<br>
+<input type="text" name="Location"><br></td>
+<td><th><label for="Other"></label>Other:<br>
+<input type="text" name="Other"><br></td>
+</tr>
+</tbody>
 <tfoot>
 <tr>
 <td colspan = "4"><table>
@@ -158,12 +169,6 @@ openDropdown.classList.remove('show');
 <input type="text" name="Dig"><br>
 <th><label for="Dig (Error)"></label>Dig (Error):<br>
 <input type="text" name="Dig (Error)"><br>
-
-
-
-
-
-
 
 <tr>
 <td><input type="text" name="name"><br></td>
@@ -364,17 +369,6 @@ openDropdown.classList.remove('show');
 </tr>
 </tfoot>
 
-<tbody>
-<tr>
-<td></tbody><th><label for="Date"></label>  Date:<br>
-<input type="text" name="Date"><br></td>
-<td><th><label for="Opponent (In Play)"></label> Opponent:<br>
-<input type="text" name="Opponent"><br></td>
-<td><th><label for="Location"></label> Location:<br>
-<input type="text" name="Location"><br></td>
-<td><th><label for="Other"></label>Other:<br>
-<input type="text" name="Other"><br></td>
-</tr>
 
 </table>
 
