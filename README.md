@@ -163,11 +163,8 @@ openDropdown.classList.remove('show');
 <input type="text" name="Dig"><br>
 <th><label for="Dig (Error)"></label>Dig (Error):<br>
 <input type="text" name="Dig (Error)"><br>
-<div> 
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
-</div>
-</table>
+
+
 
 
 
@@ -238,6 +235,11 @@ openDropdown.classList.remove('show');
 <td><input type="text" name="dig"><br></td>
 <td><input type="text" name="digerror"><br></td>
 </tr>
+
+<div> 
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</div>
 </table>
 </div>
 </body>
