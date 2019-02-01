@@ -374,7 +374,7 @@ openDropdown.classList.remove('show');
 </div>
 </td>
 </tr>
-</tfoots>
+
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
