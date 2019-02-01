@@ -156,6 +156,7 @@ openDropdown.classList.remove('show');
 
 <tr>
 <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
 <td><input type="text" name="serveinplay"><br></td>
 <td><input type="text" name="serveace"><br></td>
 <td><input type="text" name="serveerror"><br></td>
@@ -169,6 +170,7 @@ openDropdown.classList.remove('show');
 </tr>
 <tr>
 <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
 <td><input type="text" name="serveinplay"><br></td>
 <td><input type="text" name="serveace"><br></td>
 <td><input type="text" name="serveerror"><br></td>
@@ -182,6 +184,7 @@ openDropdown.classList.remove('show');
 </tr>
 <tr>
 <td><input type="text" name="name"></td>
+ <td><input type="text" name="number"><br></td>
 <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -195,6 +198,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -208,6 +212,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -221,6 +226,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -234,6 +240,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -247,6 +254,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -260,6 +268,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -273,6 +282,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -286,6 +296,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -299,6 +310,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -312,6 +324,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -325,6 +338,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+  <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
@@ -338,6 +352,7 @@ openDropdown.classList.remove('show');
  </tr>
  <tr>
  <td><input type="text" name="name"><br></td>
+ <td><input type="text" name="number"><br></td>
  <td><input type="text" name="serveinplay"><br></td>
  <td><input type="text" name="serveace"><br></td>
  <td><input type="text" name="serveerror"><br></td>
