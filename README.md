@@ -166,8 +166,8 @@ openDropdown.classList.remove('show');
 <div> 
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
-</form>
 </div>
+</table>
 
 
 
