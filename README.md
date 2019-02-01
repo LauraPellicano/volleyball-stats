@@ -136,7 +136,8 @@ openDropdown.classList.remove('show');
 <input type="text" name="Location"><br>
 <th><label for="Other"></label>Other:<br>
 <input type="text" name="Other"><br>
-
+</table>
+<table>
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="name"><br>
 <th><label for="Serve (In Play)"></label> Serve (In Play):<br>
