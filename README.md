@@ -366,12 +366,16 @@ openDropdown.classList.remove('show');
 
 
 
-</table>
-
-
-<div> 
+<tfoot>
+<tr>
+<td colspan = "4"><div> 
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </div>
+</td>
+</tr>
+</tfoots>
+
+
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
