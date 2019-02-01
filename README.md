@@ -148,6 +148,8 @@ openDropdown.classList.remove('show');
 <tfoot>
 <tr>
 <td colspan = "4"><table>
+<th><label for= "Date"></label>Date:<br>
+<td><input type = "text" name = "Date"><br></td>
 <th><label for="Name"></label>  Name:<br>
 <input type="text" name="Name"><br>
 <th><label for="Number"></label>  Number:<br>
