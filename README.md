@@ -164,7 +164,6 @@ openDropdown.classList.remove('show');
 <th><label for="Dig (Error)"></label>Dig (Error):<br>
 <input type="text" name="Dig (Error)"><br>
 <div> 
-<input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form>
