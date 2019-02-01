@@ -125,21 +125,37 @@ openDropdown.classList.remove('show');
                             
 
 
-<table>
-<tr>
+<table border = "1" width = "100%"><tr>
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
-<th><label for="Date"></label>  Date:<br>
-<input type="text" name="Date"><br>
-<th><label for="Opponent (In Play)"></label> Opponent:<br>
-<input type="text" name="Opponent"><br>
-<th><label for="Location"></label> Location:<br>
-<input type="text" name="Location"><br>
-<th><label for="Other"></label>Other:<br>
-<input type="text" name="Other"><br>
+<thead>
+<tr>
+<td colspan = "4">This is the head of the table</td>
+</tr>
+</thead>
+
+<tfoot>
+<tr>
+<td colspan = "4">middle</td>
+</tr>
+</tfoot>
+
+<tbody>
+<tr>
+<td></tbody><th><label for="Date"></label>  Date:<br>
+<input type="text" name="Date"><br></td>
+<td><th><label for="Opponent (In Play)"></label> Opponent:<br>
+<input type="text" name="Opponent"><br></td>
+<td><th><label for="Location"></label> Location:<br>
+<input type="text" name="Location"><br></td>
+<td><th><label for="Other"></label>Other:<br>
+<input type="text" name="Other"><br></td>
+</tr>
+
 </table>
+
 <table>
 <th><label for="Name"></label>  Name:<br>
-<input type="text" name="name"><br>
+<input type="text" name="Name"><br>
 <th><label for="Serve (In Play)"></label> Serve (In Play):<br>
 <input type="text" name="Serve (In Play)"><br>
 <th><label for="Serve (Ace)"></label> Serve (Ace):<br>
