@@ -105,24 +105,13 @@ openDropdown.classList.remove('show');
 <img src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right">
 <h2>How to manage your teams statistics<h2>
 <ol> 
-<li>Create a team profile</li>
-<li>Create a profile for each player on your team</li>
-<li>Create a game profile for each game in your season</li>
-<li>Within each game profile you will be able to upload each individuals players statistics for that specific game</li>
+<li>Enter the Date, Opponent, Location, and any Comments for the Game</li>
+<li>Then enter each players name and number</li>
+<li>Once the game starts add the appropriate statistics for each player</li>
+<li>Once the Game is over hit send and a copy of the results of the statistics will be sent to your email</li>
 <li>After each game you are able to look at the team profile and each individual profile for more details and graphs for the season!</li>
 </ol>
 
-<p1>Team Profile</p1>
-<div>
-<table id= "table1" style="width:100%">
-<tr>
-<th>Team name</th>
-<th>Coach</th> 
-<th>Number of players </th>
-<th>Games and dates </th>
-</tr>
-<br/><br/>
-                            
 
 
 <table border = "1" width = "100%"><tr>
@@ -355,7 +344,16 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="killerror"><br></td>
  <td><input type="text" name="dig"><br></td>
  <td><input type="text" name="digerror"><br></td>
-
+ 
+ <tfoot>
+ <tr>
+ <td colspan = "4"><table>
+ <td><input type="text" name="Final score set one"><br></td>
+ <td><input type="text" name="Final score set two"><br></td>
+ <td><input type="text" name="Final score set three"><br></td>
+ <td><input type="text" name="Final score set four"><br></td>
+ <td><input type="text" name="Final score set five"><br></td>
+ <td><input type="text" name="Final score of Game"><br></td>
 
 
 <tfoot>
