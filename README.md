@@ -154,6 +154,8 @@ openDropdown.classList.remove('show');
 <th><label for="Serve Receive "></label>Serve Receive:<br>
 <input type="text" name="Serve Recieve"><br>
 <th><label for="Assist"></label>Assist:<br>
+<input type="text" name="Serve Recieve (Error)"><br>
+<th><label for="Serve Recieve (Error)"></label>Serve Recieve (Error):<br>
 <input type="text" name="Assist"><br>
 <th><label for="Kill"></label>Kill:<br>
 <input type="text" name="Kill"><br>
