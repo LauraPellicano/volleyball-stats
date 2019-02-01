@@ -114,7 +114,7 @@ openDropdown.classList.remove('show');
 
 
 
-<table border = "1" width = "200%"><tr>
+<table border = "1" width = "100%"><tr>
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 <thead>
 <tr>
@@ -129,7 +129,9 @@ openDropdown.classList.remove('show');
  
    <tfoot>
     <tr>
-     <td colspan = "8"><table>
+     <td colspan = "4"><table>
+     <th><label for= "Date"></label>Date:<br>
+     <td>input type = "text" name = "Date" <br>
       <th><label for="Name"></label>Final Score Set One:<br>
        <td><input type="text" name="Final Score Set One"><br></td>
         <th><label for="Name"></label>Final Score Set Two:<br>
