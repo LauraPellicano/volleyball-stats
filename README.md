@@ -134,8 +134,8 @@ openDropdown.classList.remove('show');
 </thead>
 <tbody>
 <tr>
-<td><th><label for="Date"></label>Date:<br>
-<input type="text" name="Date"><br>
+<td><th><label for="Date"></label>Date:
+<input type="text" name="Date">
 <td><th><label for="Opponent "></label>Opponent:<br>
 <input type="text" name="Opponent"><br>
 <td><th><label for="Location"></label>Location:<br>
