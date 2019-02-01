@@ -109,7 +109,6 @@ openDropdown.classList.remove('show');
 <li>Then enter each players name and number</li>
 <li>Once the game starts add the appropriate statistics for each player</li>
 <li>Once the Game is over hit send and a copy of the results of the statistics will be sent to your email</li>
-<li>After each game you are able to look at the team profile and each individual profile for more details and graphs for the season!</li>
 </ol>
 
 
