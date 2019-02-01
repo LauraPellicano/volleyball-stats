@@ -142,8 +142,7 @@ openDropdown.classList.remove('show');
 <input type="text" name="Location"><br></td>
 <td><th><label for="Other"></label>Other:<br>
 <input type="text" name="Other"><br></td>
-</tr>
-</tbody>
+
 <tfoot>
 <tr>
 <td colspan = "4"><table>
@@ -377,9 +376,5 @@ openDropdown.classList.remove('show');
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </div>
-</table>
-</div>
-</body>
-</html>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
