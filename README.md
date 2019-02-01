@@ -114,7 +114,7 @@ openDropdown.classList.remove('show');
 
 
 
-<table border = "1" width = "100%"><tr>
+<table border = "1" width = "200%"><tr>
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 <thead>
 <tr>
