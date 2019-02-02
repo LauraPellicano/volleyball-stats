@@ -64,9 +64,6 @@ display: block;
 </head>
 <body>
 
-<h2>Clickable Dropdown</h2>
-<p>Click on the button to open the dropdown menu.</p>
-
 <div class="dropdown">
 <button onclick="myFunction()" class="dropbtn">Menu</button>
 <div id="myDropdown" class="dropdown-content">
