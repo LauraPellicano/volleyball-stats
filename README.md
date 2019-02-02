@@ -122,7 +122,7 @@ openDropdown.classList.remove('show');
 </thead>
 
 
-<tbody>
+<thead>
  <tr>
  <td colspan = "8"><table>
  <th><label for="Name"></label>Date:<br>
@@ -136,7 +136,7 @@ openDropdown.classList.remove('show');
 
  
    
-<tfoot>
+<tbody>
 
 <tr>
 <td colspan = "8"><table>
@@ -375,7 +375,7 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="dig"><br></td>
  <td><input type="text" name="digerror"><br></td>
  
- <tbody>
+ <tfoot>
  <tr>
  <td colspan = "8"><table>
  <th><label for="Name"></label>Final Score Set One:<br>
