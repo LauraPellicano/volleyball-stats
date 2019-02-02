@@ -122,9 +122,7 @@ openDropdown.classList.remove('show');
 </thead>
 
 
-<tbody>
-<tr>
-<td><th><label for="Date"></label>Date:<input type="text" name="Date"><td><th><label for="Opponent "></label>Opponent:<input type="text" name="Opponent"><td><th><label for="Location"></label>Location:<input type="text" name="Location"><td><th><label for="Other"></label>Other:<input type="text" name="Other">
+
  
    
 <tfoot>
@@ -383,7 +381,7 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="Final Score of Game"><br></td>
 
 
-<tfoot>
+<tbody>
 <tr>
 <td colspan = "4"><div> 
 <input type="submit" value="Send">
