@@ -99,8 +99,6 @@ openDropdown.classList.remove('show');
 </script>
 
 <h1 align="center">Volleyball Statistics</h1>
-
-<img src="https://pngimage.net/wp-content/uploads/2018/06/volleyball-outline-png-6.png" alt = "volleyball" width=200 align="right"/>
 <h2>How to manage your teams statistics<h2>
 <ol> 
 <li>Enter the Date, Opponent, Location, and any Comments for the Game</li>
