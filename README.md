@@ -125,18 +125,15 @@ openDropdown.classList.remove('show');
 <tbody>
  <tr>
  <td colspan = "8"><table>
- <th><label for="Name"></label>Final Score Set One:<br>
- <td><input type="text" name="Final Score Set One"><br></td>
- <th><label for="Name"></label>Final Score Set Two:<br>
- <td><input type="text" name="Final Score Set Two"><br></td>
- <th><label for="Name"></label>Final Score Set Three:<br>
- <td><input type="text" name="Final Score Set Three"><br></td>
- <th><label for="Name"></label>Final Score Set Four:<br>
- <td><input type="text" name="Final Score Set Four"><br></td>
- <th><label for="Name"></label>Final Score Set Five:<br>
- <td><input type="text" name="Final Score Set Five"><br></td>
- <th><label for="Name"></label>Final Score Set Game:<br>
- <td><input type="text" name="Final Score of Game"><br></td>
+ <th><label for="Name"></label>Date:<br>
+ <td><input type="text" name="Date"><br></td>
+ <th><label for="Name"></label>Opponent:<br>
+ <td><input type="text" name="Opponent"><br></td>
+ <th><label for="Name"></label>Location:<br>
+ <td><input type="text" name="Location"><br></td>
+ <th><label for="Name"></label>Other:<br>
+ <td><input type="text" name="Other"><br></td>
+
  
    
 <tfoot>
