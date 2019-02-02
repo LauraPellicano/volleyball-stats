@@ -364,7 +364,7 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="dig"><br></td>
  <td><input type="text" name="digerror"><br></td>
  
- <tfoot>
+ <tbody>
  <tr>
  <td colspan = "4"><table>
  <th><label for="Name"></label>Final Score Set One:<br>
@@ -381,7 +381,7 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="Final Score of Game"><br></td>
 
 
-<tbody>
+<tfoot>
 <tr>
 <td colspan = "4"><div> 
 <input type="submit" value="Send">
