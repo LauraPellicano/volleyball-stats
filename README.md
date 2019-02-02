@@ -99,7 +99,7 @@ openDropdown.classList.remove('show');
 </script>
 
 <h1 align="center">Volleyball Statistics</h1>
-<img src="/Users/laura/Desktop/game-stats/volleyball.jpg" alt = "volleyball" width=200 align="right">
+<img src="https://goo.gl/images/4WBEXr" alt = "volleyball" width=200 align="right">
 <h2>How to manage your teams statistics<h2>
 <ol> 
 <li>Enter the Date, Opponent, Location, and any Comments for the Game</li>
