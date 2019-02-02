@@ -122,7 +122,21 @@ openDropdown.classList.remove('show');
 </thead>
 
 
-
+<tbody>
+ <tr>
+ <td colspan = "8"><table>
+ <th><label for="Name"></label>Final Score Set One:<br>
+ <td><input type="text" name="Final Score Set One"><br></td>
+ <th><label for="Name"></label>Final Score Set Two:<br>
+ <td><input type="text" name="Final Score Set Two"><br></td>
+ <th><label for="Name"></label>Final Score Set Three:<br>
+ <td><input type="text" name="Final Score Set Three"><br></td>
+ <th><label for="Name"></label>Final Score Set Four:<br>
+ <td><input type="text" name="Final Score Set Four"><br></td>
+ <th><label for="Name"></label>Final Score Set Five:<br>
+ <td><input type="text" name="Final Score Set Five"><br></td>
+ <th><label for="Name"></label>Final Score Set Game:<br>
+ <td><input type="text" name="Final Score of Game"><br></td>
  
    
 <tfoot>
@@ -379,6 +393,8 @@ openDropdown.classList.remove('show');
  <td><input type="text" name="Final Score Set Five"><br></td>
  <th><label for="Name"></label>Final Score Set Game:<br>
  <td><input type="text" name="Final Score of Game"><br></td>
+ 
+
 
 
 <tfoot>
